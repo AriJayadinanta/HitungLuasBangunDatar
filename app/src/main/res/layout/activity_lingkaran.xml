@@ -9,7 +9,7 @@
     <Button
         android:id="@+id/buttonBackLingkaran"
         android:layout_width="127dp"
-        android:layout_height="36dp"
+        android:layout_height="48dp"
         android:text="Back"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

@@ -10,7 +10,7 @@
         android:id="@+id/textView"
         android:layout_width="246dp"
         android:layout_height="56dp"
-        android:text="Program Menghitung Bangun Datar"
+        android:text="Program Menghitung Luas Bangun Datar"
         android:textSize="18dp"
         android:textStyle="bold"
         android:textAlignment="center"
