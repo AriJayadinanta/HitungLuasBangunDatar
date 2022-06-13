@@ -68,6 +68,6 @@ public class Trapesium extends AppCompatActivity {
         });
     }
     public double LuasTrapesium(double a, double b, double t) {
-        return 0.5 * (a * b) * t;
+        return 0.5 * (a + b) * t;
     }
 }
